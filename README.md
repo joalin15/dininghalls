@@ -1,6 +1,6 @@
 # dininghalls
 
-This is a website that pulls the daily menu from the USC residential dining menus site (http://hospitality.usc.edu/residential-dining-menus/).  It stores the menu items in a database.  It also displays the items on the website in a simple, aestheticically pleasing manner.  It departs from the current USC website by allowing users to filter by dietary restriction directly on the website.
+This is a website that pulls the daily menu items from the USC residential dining menus site (http://hospitality.usc.edu/residential-dining-menus/) and displays them on the website in a simple, aestheticically pleasing manner.  It departs from the current USC website by allowing users to filter by dietary restriction directly on the website.
 
 This project serves as practice in:
 - Building a REST JSON API using Express JS and MongoDB
