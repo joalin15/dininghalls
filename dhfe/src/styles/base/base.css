@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: "proxima-nova", sans-serif
+}
+
+#root {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+#header, #navigation, #content {
+  position: fixed;
+}
+
+#navigation, #content {
+  top: calc(13% + 8px);
+  height: calc(90% - 8px);
+}

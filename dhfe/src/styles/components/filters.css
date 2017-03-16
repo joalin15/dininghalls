@@ -1,0 +1,25 @@
+
+
+.filter-form {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.filter {
+  display: inline;
+  height: auto;
+  position: relative;
+  display: inline;
+  width: 15%;
+  margin: 0 1%;
+  font-size: .75em;
+  top: 0;
+}
+
+.filter-button {
+  position: relative;
+  display: inline;
+  font-size: .75em;
+  margin-left: 2%;
+}

@@ -1,0 +1,68 @@
+#api-container {
+  background: white;
+  position: relative;
+  width: 90%;
+  height: 85%;
+  margin: 0 auto;
+  top: 6%;
+  border-radius: 10px;
+  border: 3px solid #D0D0D0;
+}
+
+#api-container-header {
+  position: relative;
+  width: 100%;
+  height: 10%;
+  text-align: center;
+  border-bottom: 2px dotted #D0D0D0;
+}
+
+h1[class="api-container-header-h1"] {
+  color: #990000;
+  margin: 0;
+  position: relative;
+  top: 30%;
+  font-size: 1.5em;
+}
+
+#api-container-body {
+  position: relative;
+  width: 95%;
+  height: 15%;
+  overflow: auto;
+  padding-left: 5%;
+  text-align: left;
+  border-bottom: 2px dotted #D0D0D0;
+}
+
+#api-container-body-list {
+  position: relative;
+  height: 90%;
+  top: 10%;
+  width: calc(95% - 40px);
+  margin: 0;
+}
+
+.api-links-li {
+  margin-bottom: 2px;
+}
+
+.api-links {
+  color: #808080;
+}
+
+#api-container-list {
+  position: relative;
+  width: 100%;
+  top: 1%;
+  height: calc(100% - 25% - 3%);
+  overflow: auto;
+  color: #808080;
+}
+
+.api-list {
+  list-style: none;
+  margin: 0;
+  margin-bottom: 10px;
+  margin-top: 2px;
+}
