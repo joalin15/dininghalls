@@ -12,5 +12,11 @@ Planned future additions:
 - Allowing users to leave comments and reviews on specific dishes
 - Creating a way for users to connect and interact through the website
 
-Home Page:
-https://cloud.githubusercontent.com/assets/21178976/25574595/b3f0db50-2e04-11e7-84e8-29630fabf2b9.png
+Menu page:
+![](https://cloud.githubusercontent.com/assets/21178976/25574595/b3f0db50-2e04-11e7-84e8-29630fabf2b9.png)
+
+Menu page with filtering:
+![](https://cloud.githubusercontent.com/assets/21178976/25574586/ab7327da-2e04-11e7-9cbe-bb693e06b514.png)
+
+A peek at its API:
+![](https://cloud.githubusercontent.com/assets/21178976/25574597/b6517044-2e04-11e7-88f4-f0c47c8ccef8.png)
