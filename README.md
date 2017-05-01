@@ -1,7 +1,7 @@
-# Dining Halls Project
+# Let's Eat
 
 ## Overview
-This is a website that pulls the daily menu items from the [USC dining hall menus site](http://hospitality.usc.edu/residential-dining-menus/) and displays them on the website in a simple manner.  It departs from the current USC website by allowing users to filter by dietary restriction directly on the website.
+This is a web-app that pulls the daily menu items from the [USC dining hall menus site](http://hospitality.usc.edu/residential-dining-menus/) and displays them on the website in a simple manner.  It departs from the current USC website by allowing users to filter by dietary restriction directly on the website.
 
 ## Purpose
 This project serves as practice in:
