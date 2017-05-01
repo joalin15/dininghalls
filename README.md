@@ -1,7 +1,7 @@
 # Dining Halls Project
 
 ## Overview
-This is a website that pulls the daily menu items from the ![USC dining hall menus site](http://hospitality.usc.edu/residential-dining-menus/) and displays them on the website in a simple manner.  It departs from the current USC website by allowing users to filter by dietary restriction directly on the website.
+This is a website that pulls the daily menu items from the USC dining hall menus ![site](http://hospitality.usc.edu/residential-dining-menus/) and displays them on the website in a simple manner.  It departs from the current USC website by allowing users to filter by dietary restriction directly on the website.
 
 ## Purpose
 This project serves as practice in:
@@ -15,7 +15,7 @@ Planned future additions:
 - Creating a way for users to connect and interact through the website
 
 ## Viewing Instrucitons
-To be updated... Currently in the process of moving it to a live server. Feel free to checkout out the code in the meantime!
+To be updated... I'm currently in the process of moving this project to a live server, but please feel free to checkout out the code in the meantime!
 
 ## Preview
 Menu page:
